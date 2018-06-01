@@ -1,0 +1,12 @@
+.container {
+	margin-top: 2cm;
+	/*width:50%;*/
+	}
+.left {
+	width:30%;
+	float:left;
+}
+.right {
+	width:70%;
+	float:right;
+}

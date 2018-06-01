@@ -1,0 +1,11 @@
+.col-md-12 {
+	border: 1px solid #337AB7;
+	width: 290px;
+	padding: 3px;
+	display: block;
+	clear:both;
+	position: absolute; /* Абсолютное позиционирование */
+	right: 30px; /* Положение от правого края окна */
+	top: 3px; /* Положение от верхнего края */
+	/*display: block;*/
+}

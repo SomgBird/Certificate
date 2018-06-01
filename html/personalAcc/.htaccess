@@ -1,0 +1,4 @@
+<FilesMatch "(\.htaccess|test_cerf\.png|config\.php)">
+order allow,deny
+deny from all
+</FilesMatch>

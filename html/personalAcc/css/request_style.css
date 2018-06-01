@@ -1,0 +1,64 @@
+.google.button {
+  margin-top: 10px;
+  margin: 2px;
+  font-size:1.4em;
+  padding: 6px 10px;
+  -webkit-border-radius: 2px 2px;
+  border: solid 1px rgb(153, 153, 153);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgb(255, 255, 255)), to(rgb(221, 221, 221)));
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(255,255,255,1);
+  line-height: 1;
+}
+.box {
+	width: 250px;
+	margin: 0px;
+	background: #fff;
+	border: 1px solid #d1d1d1;
+	padding: 4px;
+	font-family: Georgia, Helvetica, sans-serif;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0px 0px 10px #ddd;
+	-webkit-box-shadow: 0px 0px 10px #ddd;
+}
+h3 {
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 5px;
+	background: -moz-linear-gradient(center top, #efefef 0%,#e0e0e0 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #efefef),color-stop(1, #e0e0e0));
+	border: 1px solid #d1d1d1;
+	color: black;
+	font-size: 13px;
+	font-weight: normal;
+	text-shadow: 1px 1px 0px #fff;
+	margin:0;
+    cursor: pointer;
+}
+h3 span {
+	float: right;
+	cursor: pointer;
+}
+h3 span:hover {
+	text-shadow: 0px 0px 3px #a1eeff;
+}
+ul {
+	padding: 5px;
+	overflow: hidden;
+	margin:0;
+}
+ul li {
+	font-size: 13px;
+	list-style-type: square;
+	list-style-position: inside;
+	color: black;
+	padding: 5px;
+}
+div {
+	margin: 4px;
+}
