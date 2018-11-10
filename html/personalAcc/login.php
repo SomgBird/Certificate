@@ -48,7 +48,7 @@ try
 	}
 	else
 	{
-		echo 'Не верные данные';
+		echo 'Неверные данные';
 	}
 }
 catch(PDOException $e)
